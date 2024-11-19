@@ -20,5 +20,5 @@ metadata:
       ports:
       - containerPort: 5500
       env:
-      - name: YOUR_NAME
+      - name: Giuseppe_QA
         value: Magos
